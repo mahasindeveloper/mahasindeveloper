@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahasin Sarkar</h1>
-<h3 align="center">A passionate frontend dCoding Passion + Business Dream = 🏆 Tech Entrepreneur 🚀eveloper from India</h3>
+<h3 align="center">Coding Passion + Business Dream = 🏆 Tech Entrepreneur 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahasindevloper" target="blank"><img src="https://img.shields.io/twitter/follow/mahasindevloper?logo=twitter&style=for-the-badge" alt="mahasindevloper" /></a> </p>
 
-- 🔭 I’m currently working on **EduTock E-Learning Platfrom**
+- 🔭 I’m currently working on **EduTock E-Learning Platform**
 
 - 🌱 I’m currently learning **Ruby, C++, AI & ML**
 
